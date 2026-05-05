@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/stornoro/landing/main/public/images/logo-light.png#gh-dark-mode-only" alt="Storno" height="64" />
-<img src="https://raw.githubusercontent.com/stornoro/landing/main/public/images/logo-dark.png#gh-light-mode-only" alt="Storno" height="64" />
+<img src="https://storno.ro/images/logo-light.png#gh-dark-mode-only" alt="Storno.ro" height="64" />
+<img src="https://storno.ro/images/logo-dark.png#gh-light-mode-only" alt="Storno.ro" height="64" />
 
-# Storno
+# Storno.ro
 
 **Open-source invoicing platform for Romanian businesses.**
 e-Factura ANAF · multi-company · POS · mobile · API · MCP for AI assistants.
@@ -24,7 +24,7 @@ e-Factura ANAF · multi-company · POS · mobile · API · MCP for AI assistants
 
 ---
 
-## What is Storno
+## What is Storno.ro
 
 A complete invoicing platform built for the Romanian fiscal stack — e-Factura, ANAF SPV, conformity with **OUG 130/2021**. Same codebase, two ways to use it:
 
@@ -35,12 +35,11 @@ A complete invoicing platform built for the Romanian fiscal stack — e-Factura,
 curl -fsSL https://get.storno.ro | bash
 ```
 
-## What's inside
+## Repositories
 
 |   | Repo | What it does |
 |---|---|---|
 | 📦 | **[storno](https://github.com/stornoro/storno)** | Core monorepo — Symfony 7 backend + Nuxt 4 frontend |
-| 📱 | **[storno-mobile-app](https://github.com/stornoro/storno-mobile-app)** | Cross-platform mobile app (iOS + Android) |
 | 📚 | **[docs](https://github.com/stornoro/docs)** | Documentation site — self-hosting guides, API reference |
 | 🤖 | **[storno-cli](https://github.com/stornoro/storno-cli)** | CLI + MCP server (228 tools) — drive Storno from Claude / Cursor / Windsurf |
 | 💳 | **[stripe-app](https://github.com/stornoro/stripe-app)** | Stripe Marketplace app — auto e-Factura from Stripe payments |
@@ -48,15 +47,15 @@ curl -fsSL https://get.storno.ro | bash
 
 ### E-commerce & framework integrations
 
-| | Repo | Platform |
+|   | Repo | Platform |
 |---|---|---|
-| 🛒 | [woocommerce-storno-invoicing](https://github.com/stornoro/woocommerce-storno-invoicing) | WooCommerce |
-| 🛒 | [prestashop-storno-invoicing](https://github.com/stornoro/prestashop-storno-invoicing) | PrestaShop |
-| 🛒 | [shopify-storno-invoicing](https://github.com/stornoro/shopify-storno-invoicing) | Shopify |
-| 🛒 | [magento-storno-invoicing](https://github.com/stornoro/magento-storno-invoicing) | Magento 2 |
-| 🛒 | [opencart-storno-invoicing](https://github.com/stornoro/opencart-storno-invoicing) | OpenCart |
-| 🛒 | [cscart-storno-invoicing](https://github.com/stornoro/cscart-storno-invoicing) | CS-Cart 4.15+ |
-| 🐘 | [laravel-storno](https://github.com/stornoro/laravel-storno) | Laravel package |
+| 🛒 | **[woocommerce-storno-invoicing](https://github.com/stornoro/woocommerce-storno-invoicing)** | WooCommerce |
+| 🛒 | **[prestashop-storno-invoicing](https://github.com/stornoro/prestashop-storno-invoicing)** | PrestaShop |
+| 🛒 | **[shopify-storno-invoicing](https://github.com/stornoro/shopify-storno-invoicing)** | Shopify |
+| 🛒 | **[magento-storno-invoicing](https://github.com/stornoro/magento-storno-invoicing)** | Magento 2 |
+| 🛒 | **[opencart-storno-invoicing](https://github.com/stornoro/opencart-storno-invoicing)** | OpenCart |
+| 🛒 | **[cscart-storno-invoicing](https://github.com/stornoro/cscart-storno-invoicing)** | CS-Cart 4.15+ |
+| 🐘 | **[laravel-storno](https://github.com/stornoro/laravel-storno)** | Laravel package |
 
 ## Features
 
@@ -71,7 +70,7 @@ curl -fsSL https://get.storno.ro | bash
 
 ## AI integrations
 
-Storno exposes its full API as MCP tools for AI assistants. Add it once and your AI can manage invoices in plain language.
+Storno.ro exposes its full API as MCP tools for AI assistants. Add it once and your AI can manage invoices in plain language.
 
 ```
 https://mcp.storno.ro/mcp
@@ -109,4 +108,4 @@ We welcome PRs across the ecosystem — backend bug fixes, integrations for new 
 
 [storno.ro](https://storno.ro) · [contact@storno.ro](mailto:contact@storno.ro) · [Facebook](https://facebook.com/Storno.ro)
 
-<sub>© DEVELOPMINT SERVICES SRL · Built in Romania for Romanian businesses</sub>
+<sub>© Storno.ro · Built in Romania for Romanian businesses</sub>
