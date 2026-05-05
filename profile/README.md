@@ -1,7 +1,9 @@
 <div align="center">
 
-<img src="https://storno.ro/images/logo-light.png#gh-dark-mode-only" alt="Storno.ro" height="64" />
-<img src="https://storno.ro/images/logo-dark.png#gh-light-mode-only" alt="Storno.ro" height="64" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://storno.ro/images/logo-light.png">
+  <img src="https://storno.ro/images/logo-dark.png" alt="Storno.ro" height="64" />
+</picture>
 
 # Storno.ro
 
