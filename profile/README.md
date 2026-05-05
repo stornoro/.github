@@ -106,6 +106,6 @@ We welcome PRs across the ecosystem — backend bug fixes, integrations for new 
 
 ## Connect
 
-[storno.ro](https://storno.ro) · [contact@storno.ro](mailto:contact@storno.ro) · [Facebook](https://facebook.com/stornoromania)
+[storno.ro](https://storno.ro) · [contact@storno.ro](mailto:contact@storno.ro) · [Facebook](https://www.facebook.com/storno.ro)
 
 <sub>© Storno.ro · Built in Romania for Romanian businesses</sub>
